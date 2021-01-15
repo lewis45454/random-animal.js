@@ -1,0 +1,25 @@
+{
+  "name": "random-animal",
+  "version": "1.0.0",
+  "description": "Get images of loads of animals with one easy function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewis45454/random-animal.js.git"
+  },
+  "keywords": [
+    "animals"
+  ],
+  "author": "9h_7n",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lewis45454/random-animal.js/issues"
+  },
+  "homepage": "https://github.com/lewis45454/random-animal.js#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
