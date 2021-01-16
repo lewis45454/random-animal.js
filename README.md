@@ -22,7 +22,7 @@ randomAnimal.randomCat().then(cat => {
 
 ## All functions
 
-You can get random images of:
+You can get random images of:  
 Dog  
 Cat  
 Koala  
