@@ -1,6 +1,6 @@
 {
   "name": "random-animal.js",
-  "version": "0.0.2",
+  "version": "1.0.2",
   "description": "Get images of loads of animals with one easy function",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "url": "git+https://github.com/lewis45454/random-animal.js.git"
   },
   "keywords": [
-    "animals"
+    "animals",
+    "random",
+    "image",
+    "random animal",
+    "random animal pictures",
+    "random animal images"
   ],
   "author": "9h_7n",
   "license": "MIT",
