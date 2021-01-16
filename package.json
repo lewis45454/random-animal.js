@@ -1,5 +1,5 @@
 {
-  "name": "random-animal",
+  "name": "random-animal.js",
   "version": "1.0.0",
   "description": "Get images of loads of animals with one easy function",
   "main": "index.js",
