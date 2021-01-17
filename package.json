@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/lewis45454/random-animal.js/issues"
   },
-  "homepage": "https://github.com/lewis45454/random-animal.js#readme",
+  "homepage": "https://random-animal.ml",
   "dependencies": {
     "axios": "^0.21.1"
   }
